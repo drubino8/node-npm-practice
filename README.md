@@ -1,2 +1,2 @@
 # node-npm-practice
-Node and Npm practice
+Node npm practice
